@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: io
+Version: 0.1
+Summary: Python io
+Home-page: https://github.com/levensailor/io
+Author: Jeff Levensailor
+Author-email: jeff@levensailor.com
+License: MIT
+Description: # Python io package
+Keywords: io
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
